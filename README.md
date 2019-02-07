@@ -1,2 +1,3 @@
-# Simple-Arithmetic
-Calculates the sum and division of numbers entered
+# What I learned
+
+Nothing here. Simple HomeWork i have to turn in.
